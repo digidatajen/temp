@@ -1,0 +1,2 @@
+﻿<http://datadock.io/digidatajen/temp/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/ns/void#Dataset> <http://datadock.io/digidatajen/temp/metadata>.
+<http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/ns/void#Dataset> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite/metadata>.
