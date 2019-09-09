@@ -1,0 +1,3 @@
+﻿<http://datadock.io/digidatajen/temp/id/resource/site_id/142669> <http://datadock.io/digidatajen/temp/id/definition/site_id> "142669"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
+<http://datadock.io/digidatajen/temp/id/resource/site_id/41931> <http://datadock.io/digidatajen/temp/id/definition/full_northing> "112060"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
+<http://datadock.io/digidatajen/temp/id/resource/site_id/9911> <http://datadock.io/digidatajen/temp/id/definition/full_northing> "112060"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.

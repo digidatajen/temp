@@ -1,0 +1,2 @@
+﻿<http://datadock.io/digidatajen/temp/id/resource/site_id/157066> <http://datadock.io/digidatajen/temp/id/definition/northing> "74693"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
+<http://datadock.io/digidatajen/temp/id/resource/site_id/53279> <http://datadock.io/digidatajen/temp/id/definition/water_body> "RIDINGS BROOK"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.

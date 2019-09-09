@@ -1,0 +1,3 @@
+﻿<http://datadock.io/digidatajen/temp/id/resource/site_id/160616> <http://datadock.io/digidatajen/temp/id/definition/dist_from_source> "5.410"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
+<http://datadock.io/digidatajen/temp/id/resource/site_id/160861> <http://datadock.io/digidatajen/temp/id/definition/easting> "18951"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
+<http://datadock.io/digidatajen/temp/id/resource/site_id/64217> <http://datadock.io/digidatajen/temp/id/definition/ngr_10_fig> "SJ6440086100"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.

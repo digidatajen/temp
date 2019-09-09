@@ -1,0 +1,2 @@
+﻿<http://datadock.io/digidatajen/temp/id/resource/site_id/48219> <http://datadock.io/digidatajen/temp/id/definition/site_id> "48219"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
+<http://datadock.io/digidatajen/temp/id/resource/site_id/49039> <http://datadock.io/digidatajen/temp/id/definition/dist_from_source> "139.800"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.

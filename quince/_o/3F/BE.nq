@@ -1,0 +1,3 @@
+﻿<http://datadock.io/digidatajen/temp/id/resource/site_id/145799> <http://datadock.io/digidatajen/temp/id/definition/full_northing> "174820"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
+<http://datadock.io/digidatajen/temp/id/resource/site_id/44239> <http://datadock.io/digidatajen/temp/id/definition/alkalinity> "127.6"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
+<http://datadock.io/digidatajen/temp/id/resource/site_id/47138> <http://datadock.io/digidatajen/temp/id/definition/alkalinity> "127.6"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.

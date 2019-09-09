@@ -1,0 +1,2 @@
+﻿<http://datadock.io/digidatajen/temp/id/resource/site_id/158502> <http://datadock.io/digidatajen/temp/id/definition/site_id> "158502"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
+<http://datadock.io/digidatajen/temp/id/resource/site_id/42120> <http://datadock.io/digidatajen/temp/id/definition/easting> "59656"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.

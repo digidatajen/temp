@@ -1,0 +1,2 @@
+﻿<http://datadock.io/digidatajen/temp/id/resource/site_id/54885> <http://datadock.io/digidatajen/temp/id/definition/full_easting> "645500"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
+<http://datadock.io/digidatajen/temp/id/resource/site_id/7964> <http://datadock.io/digidatajen/temp/id/definition/ngr_10_fig> "ST8720053200"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.

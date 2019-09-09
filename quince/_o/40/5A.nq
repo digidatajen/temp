@@ -1,0 +1,3 @@
+﻿<http://datadock.io/digidatajen/temp/id/resource/site_id/147906> <http://datadock.io/digidatajen/temp/id/definition/water_body> "HOG HILL DITCH CULVERT"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
+<http://datadock.io/digidatajen/temp/id/resource/site_id/161004> <http://datadock.io/digidatajen/temp/id/definition/full_northing> "491397"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
+<http://datadock.io/digidatajen/temp/id/resource/site_id/48403> <http://datadock.io/digidatajen/temp/id/definition/depth> "94.44"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.

@@ -1,0 +1,3 @@
+﻿<http://datadock.io/digidatajen/temp/id/resource/site_id/10344> <http://datadock.io/digidatajen/temp/id/definition/site_id> "10344"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
+<http://datadock.io/digidatajen/temp/id/resource/site_id/54630> <http://datadock.io/digidatajen/temp/id/definition/max_sample_date> "06/11/2014"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
+<http://datadock.io/digidatajen/temp/id/resource/site_id/56057> <http://datadock.io/digidatajen/temp/id/definition/full_northing> "272940"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.

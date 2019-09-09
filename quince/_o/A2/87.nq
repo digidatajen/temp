@@ -1,0 +1,3 @@
+﻿<http://datadock.io/digidatajen/temp/id/resource/site_id/182945> <http://datadock.io/digidatajen/temp/id/definition/full_easting> "511871"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
+<http://datadock.io/digidatajen/temp/id/resource/site_id/56017> <http://datadock.io/digidatajen/temp/id/definition/ngr_10_fig> "TL5972582551"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
+<http://datadock.io/digidatajen/temp/id/resource/site_id/56697> <http://datadock.io/digidatajen/temp/id/definition/min_sample_date> "27/02/1990"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.

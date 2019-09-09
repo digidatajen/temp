@@ -1,0 +1,2 @@
+﻿<http://datadock.io/digidatajen/temp/id/resource/site_id/160041> <http://datadock.io/digidatajen/temp/id/definition/wfd_waterbody_id> "GB109053021940"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
+<http://datadock.io/digidatajen/temp/id/resource/site_id/197511> <http://datadock.io/digidatajen/temp/id/definition/full_easting> "271237"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.

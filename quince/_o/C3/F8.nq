@@ -1,0 +1,3 @@
+﻿<http://datadock.io/digidatajen/temp/id/resource/site_id/177> <http://datadock.io/digidatajen/temp/id/definition/wfd_waterbody_id> "GB104027064110"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
+<http://datadock.io/digidatajen/temp/id/resource/site_id/43340> <http://datadock.io/digidatajen/temp/id/definition/full_easting> "586710"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
+<http://datadock.io/digidatajen/temp/id/resource/site_id/80357> <http://datadock.io/digidatajen/temp/id/definition/water_body> "STROXTON BROOK SPRING 4B"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.

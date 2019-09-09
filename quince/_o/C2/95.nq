@@ -1,0 +1,3 @@
+﻿<http://datadock.io/digidatajen/temp/id/resource/site_id/69396> <http://datadock.io/digidatajen/temp/id/definition/water_body> "FOWLE BK"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
+<http://datadock.io/digidatajen/temp/id/resource/site_id/7842> <http://datadock.io/digidatajen/temp/id/definition/ngr_10_fig> "SU0170070400"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
+<http://datadock.io/digidatajen/temp/id/resource/site_id/9779> <http://datadock.io/digidatajen/temp/id/definition/ngr_10_fig> "SS6511002800"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.

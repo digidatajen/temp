@@ -1,0 +1,3 @@
+﻿<http://datadock.io/digidatajen/temp/id/resource/site_id/56314> <http://datadock.io/digidatajen/temp/id/definition/wfd_waterbody_id> "GB105033038140"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
+<http://datadock.io/digidatajen/temp/id/resource/site_id/95362> <http://datadock.io/digidatajen/temp/id/definition/min_sample_date> "11/07/2002"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
+<http://datadock.io/digidatajen/temp/id/resource/site_id/95365> <http://datadock.io/digidatajen/temp/id/definition/min_sample_date> "11/07/2002"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.

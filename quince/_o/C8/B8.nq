@@ -1,0 +1,2 @@
+﻿<http://datadock.io/digidatajen/temp/id/resource/sample_id/615662> <http://datadock.io/digidatajen/temp/id/definition/analysis_id> "607182"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataMetrics>.
+<http://datadock.io/digidatajen/temp/id/resource/site_id/65348> <http://datadock.io/digidatajen/temp/id/definition/ngr_10_fig> "NY5652539550"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
