@@ -1,1 +1,2 @@
 ﻿<http://datadock.io/digidatajen/temp/id/resource/site_id/10999> <http://datadock.io/digidatajen/temp/id/definition/northing> "37889"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
+<http://datadock.io/digidatajen/temp/id/resource/site_id/155687> <http://datadock.io/digidatajen/temp/id/definition/full_easting> "217093"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataSite>.

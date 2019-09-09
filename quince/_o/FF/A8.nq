@@ -1,1 +1,2 @@
-﻿<http://datadock.io/digidatajen/temp/id/resource/site_id/53604> <http://datadock.io/digidatajen/temp/id/definition/ngr_10_fig> "SO9570075200"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
+﻿<http://datadock.io/digidatajen/temp/id/resource/site_id/166886> <http://datadock.io/digidatajen/temp/id/definition/full_easting> "412093"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataSite>.
+<http://datadock.io/digidatajen/temp/id/resource/site_id/53604> <http://datadock.io/digidatajen/temp/id/definition/ngr_10_fig> "SO9570075200"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.

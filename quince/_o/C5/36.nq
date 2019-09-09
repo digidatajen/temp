@@ -14,3 +14,4 @@
 <http://datadock.io/digidatajen/temp/id/resource/site_id/50275> <http://datadock.io/digidatajen/temp/id/definition/full_easting> "388901"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
 <http://datadock.io/digidatajen/temp/id/resource/site_id/51707> <http://datadock.io/digidatajen/temp/id/definition/easting> "63491"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
 <http://datadock.io/digidatajen/temp/id/resource/site_id/51707> <http://datadock.io/digidatajen/temp/id/definition/easting> "63491"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
+<http://datadock.io/digidatajen/temp/id/resource/site_id/51707> <http://datadock.io/digidatajen/temp/id/definition/easting> "63491"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataSite>.

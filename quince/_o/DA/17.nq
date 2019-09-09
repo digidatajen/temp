@@ -23,3 +23,4 @@
 <http://datadock.io/digidatajen/temp/id/resource/site_id/77327> <http://datadock.io/digidatajen/temp/id/definition/depth> "300.00"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
 <http://datadock.io/digidatajen/temp/id/resource/site_id/941> <http://datadock.io/digidatajen/temp/id/definition/altitude> "300.00"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
 <http://datadock.io/digidatajen/temp/id/resource/site_id/950> <http://datadock.io/digidatajen/temp/id/definition/northing> "40994"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
+<http://datadock.io/digidatajen/temp/id/resource/site_id/950> <http://datadock.io/digidatajen/temp/id/definition/northing> "40994"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataSite>.

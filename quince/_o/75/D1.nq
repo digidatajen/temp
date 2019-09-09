@@ -1,2 +1,3 @@
 ﻿<http://datadock.io/digidatajen/temp/id/resource/site_id/2142> <http://datadock.io/digidatajen/temp/id/definition/water_body> "TAN IND EST STREAM"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
 <http://datadock.io/digidatajen/temp/id/resource/site_id/34382> <http://datadock.io/digidatajen/temp/id/definition/ngr_10_fig> "SP5295015580"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
+<http://datadock.io/digidatajen/temp/id/resource/site_id/34382> <http://datadock.io/digidatajen/temp/id/definition/ngr_10_fig> "SP5295015580"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataSite>.

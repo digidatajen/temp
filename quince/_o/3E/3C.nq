@@ -1,1 +1,2 @@
 ﻿<http://datadock.io/digidatajen/temp/id/resource/site_id/68681> <http://datadock.io/digidatajen/temp/id/definition/ngr_10_fig> "SD7360009400"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
+<http://datadock.io/digidatajen/temp/id/resource/site_id/92342> <http://datadock.io/digidatajen/temp/id/definition/dist_from_source> "135.000"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataSite>.

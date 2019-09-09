@@ -1,1 +1,2 @@
-﻿<http://datadock.io/digidatajen/temp/id/resource/site_id/42894> <http://datadock.io/digidatajen/temp/id/definition/depth> "8.88"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
+﻿<http://datadock.io/digidatajen/temp/id/resource/site_id/160194> <http://datadock.io/digidatajen/temp/id/definition/site_id> "160194"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataSite>.
+<http://datadock.io/digidatajen/temp/id/resource/site_id/42894> <http://datadock.io/digidatajen/temp/id/definition/depth> "8.88"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.

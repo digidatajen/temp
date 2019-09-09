@@ -30,3 +30,4 @@
 <http://datadock.io/digidatajen/temp/id/resource/site_id/205> <http://datadock.io/digidatajen/temp/id/definition/site_id> "205"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
 <http://datadock.io/digidatajen/temp/id/resource/site_id/35909> <http://datadock.io/digidatajen/temp/id/definition/easting> "72109"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
 <http://datadock.io/digidatajen/temp/id/resource/site_id/69396> <http://datadock.io/digidatajen/temp/id/definition/easting> "72109"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
+<http://datadock.io/digidatajen/temp/id/resource/site_id/69396> <http://datadock.io/digidatajen/temp/id/definition/easting> "72109"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataSite>.

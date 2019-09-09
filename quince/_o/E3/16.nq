@@ -1,1 +1,2 @@
 ﻿<http://datadock.io/digidatajen/temp/id/resource/sample_id/645029> <http://datadock.io/digidatajen/temp/id/definition/analysis_id> "632014"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataMetrics>.
+<http://datadock.io/digidatajen/temp/id/resource/site_id/157465> <http://datadock.io/digidatajen/temp/id/definition/full_northing> "381536"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataSite>.

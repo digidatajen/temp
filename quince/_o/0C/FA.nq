@@ -3,3 +3,4 @@
 <http://datadock.io/digidatajen/temp/id/resource/site_id/154556> <http://datadock.io/digidatajen/temp/id/definition/northing> "65354"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
 <http://datadock.io/digidatajen/temp/id/resource/site_id/171204> <http://datadock.io/digidatajen/temp/id/definition/full_easting> "284023"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
 <http://datadock.io/digidatajen/temp/id/resource/site_id/43870> <http://datadock.io/digidatajen/temp/id/definition/northing> "82340"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
+<http://datadock.io/digidatajen/temp/id/resource/site_id/65354> <http://datadock.io/digidatajen/temp/id/definition/site_id> "65354"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataSite>.

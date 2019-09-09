@@ -1,1 +1,2 @@
-﻿<http://datadock.io/digidatajen/temp/id/resource/site_id/159152> <http://datadock.io/digidatajen/temp/id/definition/ngr_10_fig> "SK8464211375"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
+﻿<http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataSite> <http://rdfs.org/ns/void#exampleResource> <http://datadock.io/digidatajen/temp/id/resource/site_id/157590> <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataSite/metadata>.
+<http://datadock.io/digidatajen/temp/id/resource/site_id/159152> <http://datadock.io/digidatajen/temp/id/definition/ngr_10_fig> "SK8464211375"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.

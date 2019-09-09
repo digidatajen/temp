@@ -1,0 +1,2 @@
+﻿<http://datadock.io/digidatajen/temp/id/resource/sample_id/364907> <http://datadock.io/digidatajen/temp/id/definition/date_of_analysis> "24/09/2001"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataMetrics>.
+<http://datadock.io/digidatajen/temp/id/resource/sample_id/756235> <http://datadock.io/digidatajen/temp/id/definition/total_tdi5_ngs_sequence_reads> "2635"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataMetrics>.

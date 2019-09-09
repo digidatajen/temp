@@ -1,3 +1,4 @@
 ﻿<http://datadock.io/digidatajen/temp/id/resource/site_id/13> <http://datadock.io/digidatajen/temp/id/definition/conductivity> "1194.0"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
 <http://datadock.io/digidatajen/temp/id/resource/site_id/169685> <http://datadock.io/digidatajen/temp/id/definition/easting> "84922"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
 <http://datadock.io/digidatajen/temp/id/resource/site_id/51382> <http://datadock.io/digidatajen/temp/id/definition/northing> "83163"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
+<http://datadock.io/digidatajen/temp/id/resource/site_id/51382> <http://datadock.io/digidatajen/temp/id/definition/northing> "83163"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataSite>.

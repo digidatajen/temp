@@ -1,2 +1,3 @@
 ﻿<http://datadock.io/digidatajen/temp/id/resource/site_id/132382> <http://datadock.io/digidatajen/temp/id/definition/ngr_10_fig> "SW8225061420"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
 <http://datadock.io/digidatajen/temp/id/resource/site_id/161440> <http://datadock.io/digidatajen/temp/id/definition/ngr_10_fig> "SK9689334898"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
+<http://datadock.io/digidatajen/temp/id/resource/site_id/180505> <http://datadock.io/digidatajen/temp/id/definition/ngr_10_fig> "SJ8883551076"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataSite>.

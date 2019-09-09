@@ -12,3 +12,4 @@
 <http://datadock.io/digidatajen/temp/id/resource/site_id/1983> <http://datadock.io/digidatajen/temp/id/definition/conductivity> "1111.5"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
 <http://datadock.io/digidatajen/temp/id/resource/site_id/9057> <http://datadock.io/digidatajen/temp/id/definition/site_id> "9057"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
 <http://datadock.io/digidatajen/temp/id/resource/site_id/9057> <http://datadock.io/digidatajen/temp/id/definition/site_id> "9057"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
+<http://datadock.io/digidatajen/temp/id/resource/site_id/9057> <http://datadock.io/digidatajen/temp/id/definition/site_id> "9057"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataSite>.
