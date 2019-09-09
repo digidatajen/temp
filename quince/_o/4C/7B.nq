@@ -1,2 +1,3 @@
 ﻿<http://datadock.io/digidatajen/temp/id/resource/site_id/153719> <http://datadock.io/digidatajen/temp/id/definition/full_easting> "554489"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
 <http://datadock.io/digidatajen/temp/id/resource/site_id/35214> <http://datadock.io/digidatajen/temp/id/definition/water_body> "LEWKNOR BROOK"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
+<http://datadock.io/digidatajen/temp/id/resource/site_id/92920> <http://datadock.io/digidatajen/temp/id/definition/full_northing> "315008"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.

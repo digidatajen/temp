@@ -1,1 +1,2 @@
 ﻿<http://datadock.io/digidatajen/temp/id/resource/sample_id/153531> <http://datadock.io/digidatajen/temp/id/definition/sample_id> "153531"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataMetrics>.
+<http://datadock.io/digidatajen/temp/id/resource/site_id/182792> <http://datadock.io/digidatajen/temp/id/definition/full_easting> "246466"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.

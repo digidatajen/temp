@@ -1,0 +1,4 @@
+﻿<http://datadock.io/digidatajen/temp/id/resource/site_id/157785> <http://datadock.io/digidatajen/temp/id/definition/easting> "53367"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
+<http://datadock.io/digidatajen/temp/id/resource/site_id/183685> <http://datadock.io/digidatajen/temp/id/definition/easting> "53367"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
+<http://datadock.io/digidatajen/temp/id/resource/site_id/41746> <http://datadock.io/digidatajen/temp/id/definition/full_easting> "552320"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
+<http://datadock.io/digidatajen/temp/id/resource/site_id/53367> <http://datadock.io/digidatajen/temp/id/definition/site_id> "53367"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
