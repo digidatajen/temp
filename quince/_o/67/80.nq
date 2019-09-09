@@ -1,0 +1,2 @@
+﻿<http://datadock.io/digidatajen/temp/id/resource/site_id/153555> <http://datadock.io/digidatajen/temp/id/definition/wfd_waterbody_id> "GB104028047510"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
+<http://datadock.io/digidatajen/temp/id/resource/site_id/1635> <http://datadock.io/digidatajen/temp/id/definition/min_sample_date> "25/03/1990"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.

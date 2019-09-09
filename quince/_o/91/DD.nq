@@ -1,1 +1,2 @@
 ﻿<http://datadock.io/digidatajen/temp/id/resource/analysis_id/119280> <http://datadock.io/digidatajen/temp/id/definition/taxon_list_item_key> "NBNSYS0100051153"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataTaxa>.
+<http://datadock.io/digidatajen/temp/id/resource/sample_id/660342> <http://datadock.io/digidatajen/temp/id/definition/analysis_id> "672153"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataMetrics>.

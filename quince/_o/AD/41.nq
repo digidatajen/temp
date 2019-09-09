@@ -1,1 +1,6 @@
-﻿
+﻿<http://datadock.io/digidatajen/temp/id/resource/sample_id/589540> <http://datadock.io/digidatajen/temp/id/definition/date_of_analysis> "05/01/2010"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataMetrics>.
+<http://datadock.io/digidatajen/temp/id/resource/sample_id/589543> <http://datadock.io/digidatajen/temp/id/definition/date_of_analysis> "05/01/2010"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataMetrics>.
+<http://datadock.io/digidatajen/temp/id/resource/sample_id/589797> <http://datadock.io/digidatajen/temp/id/definition/date_of_analysis> "05/01/2010"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataMetrics>.
+<http://datadock.io/digidatajen/temp/id/resource/sample_id/595557> <http://datadock.io/digidatajen/temp/id/definition/date_of_analysis> "05/01/2010"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataMetrics>.
+<http://datadock.io/digidatajen/temp/id/resource/sample_id/598775> <http://datadock.io/digidatajen/temp/id/definition/date_of_analysis> "05/01/2010"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataMetrics>.
+<http://datadock.io/digidatajen/temp/id/resource/sample_id/599794> <http://datadock.io/digidatajen/temp/id/definition/date_of_analysis> "05/01/2010"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataMetrics>.

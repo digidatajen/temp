@@ -1,1 +1,3 @@
-﻿
+﻿<http://datadock.io/digidatajen/temp/id/resource/sample_id/689426> <http://datadock.io/digidatajen/temp/id/definition/sample_id> "689426"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataMetrics>.
+<http://datadock.io/digidatajen/temp/id/resource/sample_id/747711> <http://datadock.io/digidatajen/temp/id/definition/total_tdi5_ngs_sequence_reads> "25471"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataMetrics>.
+<http://datadock.io/digidatajen/temp/id/resource/sample_id/754945> <http://datadock.io/digidatajen/temp/id/definition/sample_id> "754945"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataMetrics>.

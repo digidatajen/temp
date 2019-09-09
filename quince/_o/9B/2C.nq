@@ -1,1 +1,5 @@
-﻿
+﻿<http://datadock.io/digidatajen/temp/id/resource/sample_id/638074> <http://datadock.io/digidatajen/temp/id/definition/site_id> "159277"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataMetrics>.
+<http://datadock.io/digidatajen/temp/id/resource/sample_id/642749> <http://datadock.io/digidatajen/temp/id/definition/site_id> "159277"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataMetrics>.
+<http://datadock.io/digidatajen/temp/id/resource/sample_id/660607> <http://datadock.io/digidatajen/temp/id/definition/site_id> "159277"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataMetrics>.
+<http://datadock.io/digidatajen/temp/id/resource/sample_id/678073> <http://datadock.io/digidatajen/temp/id/definition/site_id> "159277"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataMetrics>.
+<http://datadock.io/digidatajen/temp/id/resource/sample_id/761293> <http://datadock.io/digidatajen/temp/id/definition/total_ngs_sequence_reads> "237392"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataMetrics>.
