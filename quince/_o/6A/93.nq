@@ -1,1 +1,2 @@
-﻿
+﻿<http://datadock.io/digidatajen/temp/id/resource/sample_id/389813> <http://datadock.io/digidatajen/temp/id/definition/analysis_id> "385898"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataMetrics>.
+<http://datadock.io/digidatajen/temp/id/resource/sample_id/606099> <http://datadock.io/digidatajen/temp/id/definition/sample_id> "606099"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataMetrics>.

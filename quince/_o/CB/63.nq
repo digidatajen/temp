@@ -1,2 +1,3 @@
 ﻿<http://datadock.io/digidatajen/temp/id/resource/sample_id/642138> <http://datadock.io/digidatajen/temp/id/definition/sample_id> "642138"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataMetrics>.
+<http://datadock.io/digidatajen/temp/id/resource/sample_id/702001> <http://datadock.io/digidatajen/temp/id/definition/sample_id> "702001"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataMetrics>.
 <http://datadock.io/digidatajen/temp/id/resource/site_id/50840> <http://datadock.io/digidatajen/temp/id/definition/water_body> "LEATON BROOK"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
