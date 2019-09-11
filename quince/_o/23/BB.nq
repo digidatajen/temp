@@ -1,5 +1,1 @@
-﻿<http://datadock.io/digidatajen/temp/id/resource/site_id/155627> <http://datadock.io/digidatajen/temp/id/definition/northing> "97100"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/160810> <http://datadock.io/digidatajen/temp/id/definition/site_id> "160810"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/161701> <http://datadock.io/digidatajen/temp/id/definition/northing> "97100"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/7790> <http://datadock.io/digidatajen/temp/id/definition/full_northing> "160810"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/92903> <http://datadock.io/digidatajen/temp/id/definition/northing> "97100"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataSite>.
+﻿

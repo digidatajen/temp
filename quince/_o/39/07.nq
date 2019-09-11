@@ -1,3 +1,1 @@
 ﻿<http://datadock.io/digidatajen/temp/id/resource/site_id/147945> <http://datadock.io/digidatajen/temp/id/definition/site_id> "147945"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/160672> <http://datadock.io/digidatajen/temp/id/definition/site_id> "160672"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/9439> <http://datadock.io/digidatajen/temp/id/definition/easting> "41644"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataSite>.

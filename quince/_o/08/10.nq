@@ -1,3 +1,2 @@
 ﻿<http://datadock.io/digidatajen/temp/id/definition/pebbles_gravel> <http://www.w3.org/2000/01/rdf-schema#label> "PEBBLES_GRAVEL"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/definitions>.
 <http://datadock.io/digidatajen/temp/id/resource/site_id/151362> <http://datadock.io/digidatajen/temp/id/definition/northing> "86906"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/151362> <http://datadock.io/digidatajen/temp/id/definition/northing> "86906"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataSite>.

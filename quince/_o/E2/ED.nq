@@ -1,2 +1,1 @@
-﻿<http://datadock.io/digidatajen/temp/id/resource/site_id/1455> <http://datadock.io/digidatajen/temp/id/definition/full_northing> "433645"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/44320> <http://datadock.io/digidatajen/temp/id/definition/full_easting> "540900"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
+﻿<http://datadock.io/digidatajen/temp/id/resource/site_id/44320> <http://datadock.io/digidatajen/temp/id/definition/full_easting> "540900"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.

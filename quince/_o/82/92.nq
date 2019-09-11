@@ -1,3 +1,2 @@
 ﻿<http://datadock.io/digidatajen/temp/id/resource/site_id/55498> <http://datadock.io/digidatajen/temp/id/definition/ngr_10_fig> "SK9091603593"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
 <http://datadock.io/digidatajen/temp/id/resource/site_id/8952> <http://datadock.io/digidatajen/temp/id/definition/northing> "94250"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/8952> <http://datadock.io/digidatajen/temp/id/definition/northing> "94250"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataSite>.

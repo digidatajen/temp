@@ -1,2 +1,1 @@
 ﻿<http://datadock.io/digidatajen/temp/id/resource/site_id/1580> <http://datadock.io/digidatajen/temp/id/definition/full_easting> "428979"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/33208> <http://datadock.io/digidatajen/temp/id/definition/dist_from_source> "7.490"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataSite>.

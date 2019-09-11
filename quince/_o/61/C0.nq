@@ -1,3 +1,1 @@
-﻿<http://datadock.io/digidatajen/temp/id/resource/site_id/100361> <http://datadock.io/digidatajen/temp/id/definition/site_id> "100361"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/149940> <http://datadock.io/digidatajen/temp/id/definition/wfd_waterbody_id> "GB105037041150"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/42348> <http://datadock.io/digidatajen/temp/id/definition/ngr_10_fig> "TQ8588019920"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataSite>.
+﻿

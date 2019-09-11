@@ -1,2 +1,1 @@
 ﻿<http://datadock.io/digidatajen/temp/id/resource/analysis_id/670826> <http://datadock.io/digidatajen/temp/id/definition/taxon_list_item_key> "NHMSYS0001388927"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataTaxa>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/147837> <http://datadock.io/digidatajen/temp/id/definition/site_id> "147837"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataSite>.

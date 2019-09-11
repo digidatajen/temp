@@ -1,4 +1,3 @@
 ﻿<http://datadock.io/digidatajen/temp/id/definition/csmax_cos> <http://www.w3.org/2000/01/rdf-schema#label> "CSmax_CoS"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/definitions>.
 <http://datadock.io/digidatajen/temp/id/resource/site_id/10066> <http://datadock.io/digidatajen/temp/id/definition/full_northing> "085590"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/10066> <http://datadock.io/digidatajen/temp/id/definition/full_northing> "085590"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataSite>.
 <http://datadock.io/digidatajen/temp/id/resource/site_id/184585> <http://datadock.io/digidatajen/temp/id/definition/full_northing> "129669"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.

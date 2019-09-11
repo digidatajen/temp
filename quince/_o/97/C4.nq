@@ -1,6 +1,1 @@
-﻿<http://datadock.io/digidatajen/temp/id/resource/site_id/145820> <http://datadock.io/digidatajen/temp/id/definition/max_sample_date> "29/06/2007"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/145820> <http://datadock.io/digidatajen/temp/id/definition/min_sample_date> "29/06/2007"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/159988> <http://datadock.io/digidatajen/temp/id/definition/full_easting> "364479"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/167923> <http://datadock.io/digidatajen/temp/id/definition/full_northing> "094626"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/33731> <http://datadock.io/digidatajen/temp/id/definition/dist_from_source> "2.650"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/9146> <http://datadock.io/digidatajen/temp/id/definition/min_sample_date> "29/06/2007"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataSite>.
+﻿

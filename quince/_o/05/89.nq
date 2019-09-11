@@ -1,3 +1,2 @@
 ﻿<http://datadock.io/digidatajen/temp/id/resource/site_id/153015> <http://datadock.io/digidatajen/temp/id/definition/max_sample_date> "16/10/2012"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/159873> <http://datadock.io/digidatajen/temp/id/definition/full_easting> "331157"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataSite>.
 <http://datadock.io/digidatajen/temp/id/resource/site_id/790> <http://datadock.io/digidatajen/temp/id/definition/max_sample_date> "16/10/2012"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.

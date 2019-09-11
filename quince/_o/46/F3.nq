@@ -1,3 +1,1 @@
 ﻿<http://datadock.io/digidatajen/temp/id/resource/site_id/113858> <http://datadock.io/digidatajen/temp/id/definition/wfd_waterbody_id> "GB112073071070"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/159608> <http://datadock.io/digidatajen/temp/id/definition/easting> "86635"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/64127> <http://datadock.io/digidatajen/temp/id/definition/wfd_waterbody_id> "GB112073071070"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataSite>.

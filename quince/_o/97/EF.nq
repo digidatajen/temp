@@ -1,3 +1,1 @@
 ﻿<http://datadock.io/digidatajen/temp/id/resource/site_id/156115> <http://datadock.io/digidatajen/temp/id/definition/ngr_10_fig> "SJ6304391992"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/92580> <http://datadock.io/digidatajen/temp/id/definition/max_sample_date> "02/06/2003"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/92581> <http://datadock.io/digidatajen/temp/id/definition/max_sample_date> "02/06/2003"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataSite>.

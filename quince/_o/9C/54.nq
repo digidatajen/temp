@@ -1,2 +1,1 @@
 ﻿<http://datadock.io/digidatajen/temp/id/definition/bmwp_total> <http://www.w3.org/2000/01/rdf-schema#label> "BMWP_TOTAL"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/definitions>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/165963> <http://datadock.io/digidatajen/temp/id/definition/site_id> "165963"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataSite>.

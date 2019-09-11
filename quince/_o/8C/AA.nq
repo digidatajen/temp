@@ -1,5 +1,1 @@
-﻿<http://datadock.io/digidatajen/temp/id/resource/site_id/154774> <http://datadock.io/digidatajen/temp/id/definition/site_id> "154774"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/64098> <http://datadock.io/digidatajen/temp/id/definition/wfd_waterbody_id> "GB112069060760"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/9576> <http://datadock.io/digidatajen/temp/id/definition/max_sample_date> "05/09/2005"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/9576> <http://datadock.io/digidatajen/temp/id/definition/min_sample_date> "05/09/2005"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/97201> <http://datadock.io/digidatajen/temp/id/definition/wfd_waterbody_id> "GB112069060760"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataSite>.
+﻿

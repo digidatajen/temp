@@ -1,3 +1,2 @@
 ﻿<http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataTaxa> <http://rdfs.org/ns/void#exampleResource> <http://datadock.io/digidatajen/temp/id/resource/analysis_id/709738> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataTaxa/metadata>.
 <http://datadock.io/digidatajen/temp/id/resource/site_id/8709> <http://datadock.io/digidatajen/temp/id/definition/full_northing> "047061"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/8709> <http://datadock.io/digidatajen/temp/id/definition/full_northing> "047061"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataSite>.

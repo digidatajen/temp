@@ -1,2 +1,1 @@
 ﻿<http://datadock.io/digidatajen/temp/id/resource/site_id/158699> <http://datadock.io/digidatajen/temp/id/definition/full_northing> "506777"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/55989> <http://datadock.io/digidatajen/temp/id/definition/dist_from_source> "63.500"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataSite>.

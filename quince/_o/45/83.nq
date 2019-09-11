@@ -1,3 +1,1 @@
-﻿<http://datadock.io/digidatajen/temp/id/resource/site_id/42348> <http://datadock.io/digidatajen/temp/id/definition/alkalinity> "56.2"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/42751> <http://datadock.io/digidatajen/temp/id/definition/northing> "26306"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/42751> <http://datadock.io/digidatajen/temp/id/definition/northing> "26306"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataSite>.
+﻿<http://datadock.io/digidatajen/temp/id/resource/site_id/42751> <http://datadock.io/digidatajen/temp/id/definition/northing> "26306"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
