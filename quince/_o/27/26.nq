@@ -1,6 +1,1 @@
-﻿<http://datadock.io/digidatajen/temp/id/resource/site_id/10621> <http://datadock.io/digidatajen/temp/id/definition/ngr_10_fig> "ST0856022600"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/44245> <http://datadock.io/digidatajen/temp/id/definition/ngr_10_fig> "TQ6505058800"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/53377> <http://datadock.io/digidatajen/temp/id/definition/site_id> "53377"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/54021> <http://datadock.io/digidatajen/temp/id/definition/max_sample_date> "20/01/2000"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/64940> <http://datadock.io/digidatajen/temp/id/definition/max_sample_date> "20/01/2000"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/66913> <http://datadock.io/digidatajen/temp/id/definition/ngr_10_fig> "SD6790008800"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
+﻿

@@ -1,8 +1,1 @@
-﻿<http://datadock.io/digidatajen/temp/id/resource/site_id/10840> <http://datadock.io/digidatajen/temp/id/definition/depth> "7.17"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/142951> <http://datadock.io/digidatajen/temp/id/definition/ngr_10_fig> "SU3611715406"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/1649> <http://datadock.io/digidatajen/temp/id/definition/depth> "7.17"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/311> <http://datadock.io/digidatajen/temp/id/definition/easting> "41706"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/41706> <http://datadock.io/digidatajen/temp/id/definition/site_id> "41706"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/9534> <http://datadock.io/digidatajen/temp/id/definition/ngr_10_fig> "SX9103093600"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/95981> <http://datadock.io/digidatajen/temp/id/definition/full_northing> "446939"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/9719> <http://datadock.io/digidatajen/temp/id/definition/northing> "40870"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
+﻿

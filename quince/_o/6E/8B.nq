@@ -1,2 +1,1 @@
-﻿<http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite> <http://purl.org/dc/terms/title> "INV_OPEN_DATA_SITE"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite/metadata>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/49529> <http://datadock.io/digidatajen/temp/id/definition/site_id> "49529"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
+﻿

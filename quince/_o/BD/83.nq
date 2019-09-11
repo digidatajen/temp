@@ -1,8 +1,1 @@
-﻿<http://datadock.io/digidatajen/temp/id/resource/site_id/1> <http://datadock.io/digidatajen/temp/id/definition/conductivity> "770.5"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/10002> <http://datadock.io/digidatajen/temp/id/definition/site_id> "10002"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/141926> <http://datadock.io/digidatajen/temp/id/definition/site_id> "141926"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/184408> <http://datadock.io/digidatajen/temp/id/definition/ngr_10_fig> "SK9454987947"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/51929> <http://datadock.io/digidatajen/temp/id/definition/site_id> "51929"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/54989> <http://datadock.io/digidatajen/temp/id/definition/full_easting> "633300"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/65424> <http://datadock.io/digidatajen/temp/id/definition/site_id> "65424"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/66430> <http://datadock.io/digidatajen/temp/id/definition/min_sample_date> "08/03/1989"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
+﻿

@@ -1,7 +1,1 @@
-﻿<http://datadock.io/digidatajen/temp/id/resource/site_id/182625> <http://datadock.io/digidatajen/temp/id/definition/max_sample_date> "09/10/1980"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/182625> <http://datadock.io/digidatajen/temp/id/definition/min_sample_date> "09/10/1980"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/182626> <http://datadock.io/digidatajen/temp/id/definition/max_sample_date> "09/10/1980"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/182626> <http://datadock.io/digidatajen/temp/id/definition/min_sample_date> "09/10/1980"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/55416> <http://datadock.io/digidatajen/temp/id/definition/min_sample_date> "09/10/1980"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/55424> <http://datadock.io/digidatajen/temp/id/definition/min_sample_date> "09/10/1980"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/55425> <http://datadock.io/digidatajen/temp/id/definition/min_sample_date> "09/10/1980"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
+﻿

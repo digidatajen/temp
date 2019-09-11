@@ -1,4 +1,1 @@
 ﻿<http://datadock.io/digidatajen/temp/id/definition/cci_cs_total> <http://www.w3.org/2000/01/rdf-schema#label> "CCI_CS_TOTAL"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/definitions>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/148137> <http://datadock.io/digidatajen/temp/id/definition/ngr_10_fig> "SZ2412193735"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/34412> <http://datadock.io/digidatajen/temp/id/definition/northing> "56661"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/68800> <http://datadock.io/digidatajen/temp/id/definition/water_body> "HORSEBRIDGE WATERCOURSE"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.

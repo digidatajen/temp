@@ -1,4 +1,1 @@
-﻿<http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite> <http://rdfs.org/ns/void#dataDump> <https://github.com/digidatajen/temp/releases/download/invOpenDataSite_20190909_151418/invOpenDataSite_20190909_151418.nt.gz> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite/metadata>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/159330> <http://datadock.io/digidatajen/temp/id/definition/ngr_10_fig> "SK2218264544"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/1712> <http://datadock.io/digidatajen/temp/id/definition/site_id> "1712"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/49052> <http://datadock.io/digidatajen/temp/id/definition/site_id> "49052"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
+﻿

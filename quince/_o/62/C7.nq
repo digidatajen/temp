@@ -1,2 +1,1 @@
 ﻿<http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite> <http://rdfs.org/ns/void#dataDump> <https://github.com/digidatajen/temp/releases/download/diatOpenDataSite_20190909_172605/diatOpenDataSite_20190909_172605.nt.gz> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite/metadata>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/56598> <http://datadock.io/digidatajen/temp/id/definition/site_id> "56598"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.

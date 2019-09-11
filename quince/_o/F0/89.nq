@@ -1,6 +1,1 @@
-﻿<http://datadock.io/digidatajen/temp/id/resource/site_id/33439> <http://datadock.io/digidatajen/temp/id/definition/max_sample_date> "13/02/2001"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/55282> <http://datadock.io/digidatajen/temp/id/definition/ngr_10_fig> "SE9903400330"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/80466> <http://datadock.io/digidatajen/temp/id/definition/max_sample_date> "13/02/2001"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/80466> <http://datadock.io/digidatajen/temp/id/definition/min_sample_date> "13/02/2001"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/80467> <http://datadock.io/digidatajen/temp/id/definition/max_sample_date> "13/02/2001"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/80467> <http://datadock.io/digidatajen/temp/id/definition/min_sample_date> "13/02/2001"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
+﻿

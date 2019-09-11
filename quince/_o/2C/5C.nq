@@ -1,4 +1,1 @@
-﻿<http://datadock.io/digidatajen/temp/id/resource/site_id/141678> <http://datadock.io/digidatajen/temp/id/definition/max_sample_date> "02/06/1982"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/141711> <http://datadock.io/digidatajen/temp/id/definition/max_sample_date> "02/06/1982"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/41788> <http://datadock.io/digidatajen/temp/id/definition/ngr_10_fig> "SU2316009340"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/55128> <http://datadock.io/digidatajen/temp/id/definition/water_body> "CLAY DYKE/GILL SYKE"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
+﻿

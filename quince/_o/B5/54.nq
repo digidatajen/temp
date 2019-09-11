@@ -1,2 +1,1 @@
 ﻿<http://datadock.io/digidatajen/temp/> <http://rdfs.org/ns/void#subset> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataTaxa> <http://datadock.io/digidatajen/temp/metadata>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/79566> <http://datadock.io/digidatajen/temp/id/definition/ngr_10_fig> "TF3580084000"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.

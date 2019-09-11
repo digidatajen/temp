@@ -1,4 +1,1 @@
-﻿<http://datadock.io/digidatajen/temp/id/resource/site_id/52195> <http://datadock.io/digidatajen/temp/id/definition/ngr_10_fig> "SO7860067500"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/80699> <http://datadock.io/digidatajen/temp/id/definition/site_id> "80699"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/91227> <http://datadock.io/digidatajen/temp/id/definition/water_body> "HATHERLEY BROOK TRIBUTARY (LECKHAMPTON ARM)"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/91229> <http://datadock.io/digidatajen/temp/id/definition/water_body> "HATHERLEY BROOK TRIBUTARY (LECKHAMPTON ARM)"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
+﻿

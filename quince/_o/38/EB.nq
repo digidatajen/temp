@@ -1,3 +1,2 @@
 ﻿<http://datadock.io/digidatajen/temp/id/definition/wfd_waterbody_id> <http://www.w3.org/2000/01/rdf-schema#label> "WFD_WATERBODY_ID"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/definitions>.
 <http://datadock.io/digidatajen/temp/id/resource/site_id/156359> <http://datadock.io/digidatajen/temp/id/definition/full_easting> "330058"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/157914> <http://datadock.io/digidatajen/temp/id/definition/northing> "92049"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.

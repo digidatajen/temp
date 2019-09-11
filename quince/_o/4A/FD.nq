@@ -1,3 +1,1 @@
 ﻿<http://datadock.io/digidatajen/temp/id/resource/site_id/143013> <http://datadock.io/digidatajen/temp/id/definition/min_sample_date> "23/07/2006"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/1502> <http://datadock.io/digidatajen/temp/id/definition/site_id> "1502"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/153193> <http://datadock.io/digidatajen/temp/id/definition/water_body> "NUN'S CROSS FARM TRIB OF SWINCOMBE"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.

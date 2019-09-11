@@ -1,6 +1,1 @@
-﻿<http://datadock.io/digidatajen/temp/id/resource/site_id/164222> <http://datadock.io/digidatajen/temp/id/definition/northing> "28083"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/188091> <http://datadock.io/digidatajen/temp/id/definition/northing> "17893"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/43442> <http://datadock.io/digidatajen/temp/id/definition/water_body> "TRIB B OF LYMINGTON RIVER"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/43564> <http://datadock.io/digidatajen/temp/id/definition/water_body> "TRIB B OF LYMINGTON RIVER"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/43847> <http://datadock.io/digidatajen/temp/id/definition/water_body> "TRIB B OF LYMINGTON RIVER"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/86961> <http://datadock.io/digidatajen/temp/id/definition/ngr_10_fig> "ST9270033100"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
+﻿
