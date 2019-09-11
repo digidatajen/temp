@@ -1,2 +1,1 @@
 ﻿<http://datadock.io/digidatajen/temp/id/definition/count_of_samples> <http://www.w3.org/2000/01/rdf-schema#label> "COUNT_OF_SAMPLES"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/definitions>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/159417> <http://datadock.io/digidatajen/temp/id/definition/northing> "54640"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.

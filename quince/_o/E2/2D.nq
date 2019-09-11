@@ -1,6 +1,1 @@
-﻿<http://datadock.io/digidatajen/temp/id/resource/site_id/152891> <http://datadock.io/digidatajen/temp/id/definition/ngr_10_fig> "SP2723355592"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/33731> <http://datadock.io/digidatajen/temp/id/definition/catchment> "MIMRAM"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/33731> <http://datadock.io/digidatajen/temp/id/definition/water_body> "MIMRAM"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/34343> <http://datadock.io/digidatajen/temp/id/definition/catchment> "MIMRAM"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/34343> <http://datadock.io/digidatajen/temp/id/definition/water_body> "MIMRAM"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/43095> <http://datadock.io/digidatajen/temp/id/definition/full_easting> "452360"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
+﻿

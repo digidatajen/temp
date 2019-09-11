@@ -1,5 +1,1 @@
-﻿<http://datadock.io/digidatajen/temp/id/resource/site_id/153648> <http://datadock.io/digidatajen/temp/id/definition/easting> "73623"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/43000> <http://datadock.io/digidatajen/temp/id/definition/alkalinity> "88.3"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/52355> <http://datadock.io/digidatajen/temp/id/definition/full_northing> "311800"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/581> <http://datadock.io/digidatajen/temp/id/definition/alkalinity> "88.3"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/68757> <http://datadock.io/digidatajen/temp/id/definition/alkalinity> "88.3"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
+﻿

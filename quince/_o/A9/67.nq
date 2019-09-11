@@ -1,5 +1,1 @@
-﻿<http://datadock.io/digidatajen/temp/id/resource/site_id/1413> <http://datadock.io/digidatajen/temp/id/definition/easting> "13119"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/54703> <http://datadock.io/digidatajen/temp/id/definition/catchment> "ROMAN RIVER"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/54703> <http://datadock.io/digidatajen/temp/id/definition/water_body> "ROMAN RIVER"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/54709> <http://datadock.io/digidatajen/temp/id/definition/catchment> "ROMAN RIVER"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/9118> <http://datadock.io/digidatajen/temp/id/definition/water_body> "NINE MILE RIVER"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
+﻿

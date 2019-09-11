@@ -1,6 +1,1 @@
-﻿<http://datadock.io/digidatajen/temp/id/resource/site_id/160977> <http://datadock.io/digidatajen/temp/id/definition/water_body> "ALLEN"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/53154> <http://datadock.io/digidatajen/temp/id/definition/alkalinity> "210.4"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/55088> <http://datadock.io/digidatajen/temp/id/definition/alkalinity> "210.4"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/8701> <http://datadock.io/digidatajen/temp/id/definition/water_body> "ALLEN"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/8806> <http://datadock.io/digidatajen/temp/id/definition/water_body> "ALLEN"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/901> <http://datadock.io/digidatajen/temp/id/definition/alkalinity> "210.4"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
+﻿

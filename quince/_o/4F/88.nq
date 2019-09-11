@@ -1,3 +1,1 @@
-﻿<http://datadock.io/digidatajen/temp/id/resource/site_id/10217> <http://datadock.io/digidatajen/temp/id/definition/full_northing> "118350"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/155650> <http://datadock.io/digidatajen/temp/id/definition/wfd_waterbody_id> "GB103022077062"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/42023> <http://datadock.io/digidatajen/temp/id/definition/full_northing> "123295"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
+﻿

@@ -1,5 +1,1 @@
-﻿<http://datadock.io/digidatajen/temp/id/resource/site_id/159121> <http://datadock.io/digidatajen/temp/id/definition/easting> "31390"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/170613> <http://datadock.io/digidatajen/temp/id/definition/water_body> "BISS BROOK"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/170614> <http://datadock.io/digidatajen/temp/id/definition/water_body> "BISS BROOK"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/184088> <http://datadock.io/digidatajen/temp/id/definition/ngr_10_fig> "SE1891963884"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/7806> <http://datadock.io/digidatajen/temp/id/definition/water_body> "BISS BROOK"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
+﻿

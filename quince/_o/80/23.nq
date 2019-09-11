@@ -1,4 +1,1 @@
-﻿<http://datadock.io/digidatajen/temp/id/resource/site_id/1375> <http://datadock.io/digidatajen/temp/id/definition/alkalinity> "119.1"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/153554> <http://datadock.io/digidatajen/temp/id/definition/wfd_waterbody_id> "GB104028047410"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/172484> <http://datadock.io/digidatajen/temp/id/definition/alkalinity> "119.1"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/56309> <http://datadock.io/digidatajen/temp/id/definition/ngr_10_fig> "TL0248945099"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
+﻿

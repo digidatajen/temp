@@ -1,3 +1,1 @@
-﻿<http://datadock.io/digidatajen/temp/id/resource/site_id/10777> <http://datadock.io/digidatajen/temp/id/definition/easting> "44950"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/10869> <http://datadock.io/digidatajen/temp/id/definition/northing> "44950"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/53932> <http://datadock.io/digidatajen/temp/id/definition/water_body> "BEANHILL BROOK"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
+﻿

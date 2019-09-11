@@ -1,2 +1,1 @@
 ﻿<http://datadock.io/digidatajen/temp/id/resource/analysis_id/609577> <http://datadock.io/digidatajen/temp/id/definition/taxon_list_item_key> "NBNSYS0100053281"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataTaxa>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/147422> <http://datadock.io/digidatajen/temp/id/definition/easting> "85372"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.

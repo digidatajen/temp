@@ -1,4 +1,1 @@
-﻿<http://datadock.io/digidatajen/temp/id/resource/site_id/154459> <http://datadock.io/digidatajen/temp/id/definition/easting> "38394"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/169124> <http://datadock.io/digidatajen/temp/id/definition/full_northing> "480021"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/1996> <http://datadock.io/digidatajen/temp/id/definition/water_body> "SUMMERHOUSE BECK"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/54717> <http://datadock.io/digidatajen/temp/id/definition/site_id> "54717"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
+﻿

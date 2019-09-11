@@ -1,4 +1,1 @@
-﻿<http://datadock.io/digidatajen/temp/id/resource/site_id/53789> <http://datadock.io/digidatajen/temp/id/definition/ngr_10_fig> "SJ6880034100"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/78698> <http://datadock.io/digidatajen/temp/id/definition/full_northing> "553600"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/9124> <http://datadock.io/digidatajen/temp/id/definition/alkalinity> "221.4"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/92259> <http://datadock.io/digidatajen/temp/id/definition/alkalinity> "221.4"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
+﻿

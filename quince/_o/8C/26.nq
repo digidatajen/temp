@@ -1,3 +1,1 @@
-﻿<http://datadock.io/digidatajen/temp/id/resource/site_id/156048> <http://datadock.io/digidatajen/temp/id/definition/max_sample_date> "15/08/2010"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/156048> <http://datadock.io/digidatajen/temp/id/definition/min_sample_date> "15/08/2010"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/92260> <http://datadock.io/digidatajen/temp/id/definition/full_easting> "428608"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
+﻿

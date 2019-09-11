@@ -1,7 +1,1 @@
-﻿<http://datadock.io/digidatajen/temp/id/resource/site_id/1331> <http://datadock.io/digidatajen/temp/id/definition/wfd_waterbody_id> "GB104027063970"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/156865> <http://datadock.io/digidatajen/temp/id/definition/wfd_waterbody_id> "GB104027063970"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/63980> <http://datadock.io/digidatajen/temp/id/definition/northing> "78500"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/65040> <http://datadock.io/digidatajen/temp/id/definition/easting> "78500"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/69083> <http://datadock.io/digidatajen/temp/id/definition/northing> "78500"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/77> <http://datadock.io/digidatajen/temp/id/definition/wfd_waterbody_id> "GB104027063970"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/92948> <http://datadock.io/digidatajen/temp/id/definition/easting> "78500"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
+﻿

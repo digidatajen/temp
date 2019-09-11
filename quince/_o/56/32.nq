@@ -1,6 +1,1 @@
-﻿<http://datadock.io/digidatajen/temp/id/resource/site_id/1153> <http://datadock.io/digidatajen/temp/id/definition/max_sample_date> "14/11/2018"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/1154> <http://datadock.io/digidatajen/temp/id/definition/max_sample_date> "14/11/2018"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/158038> <http://datadock.io/digidatajen/temp/id/definition/northing> "84445"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/68759> <http://datadock.io/digidatajen/temp/id/definition/max_sample_date> "14/11/2018"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/77583> <http://datadock.io/digidatajen/temp/id/definition/full_easting> "407553"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/97161> <http://datadock.io/digidatajen/temp/id/definition/max_sample_date> "14/11/2018"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
+﻿

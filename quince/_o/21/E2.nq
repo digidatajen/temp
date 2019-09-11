@@ -1,2 +1,1 @@
 ﻿<http://datadock.io/digidatajen/temp/id/definition/sample_method_description> <http://www.w3.org/2000/01/rdf-schema#label> "SAMPLE_METHOD_DESCRIPTION"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/definitions>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/33327> <http://datadock.io/digidatajen/temp/id/definition/full_northing> "215401"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.

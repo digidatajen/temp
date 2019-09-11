@@ -1,7 +1,1 @@
-﻿<http://datadock.io/digidatajen/temp/id/resource/site_id/134704> <http://datadock.io/digidatajen/temp/id/definition/max_sample_date> "07/11/2005"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/134704> <http://datadock.io/digidatajen/temp/id/definition/min_sample_date> "07/11/2005"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/134705> <http://datadock.io/digidatajen/temp/id/definition/max_sample_date> "07/11/2005"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/134705> <http://datadock.io/digidatajen/temp/id/definition/min_sample_date> "07/11/2005"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/165985> <http://datadock.io/digidatajen/temp/id/definition/full_northing> "140322"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/1669> <http://datadock.io/digidatajen/temp/id/definition/min_sample_date> "07/11/2005"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/1686> <http://datadock.io/digidatajen/temp/id/definition/min_sample_date> "07/11/2005"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
+﻿

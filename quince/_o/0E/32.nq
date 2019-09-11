@@ -1,6 +1,1 @@
-﻿<http://datadock.io/digidatajen/temp/id/resource/site_id/150444> <http://datadock.io/digidatajen/temp/id/definition/min_sample_date> "11/03/2008"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/151293> <http://datadock.io/digidatajen/temp/id/definition/max_sample_date> "17/10/2007"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/151293> <http://datadock.io/digidatajen/temp/id/definition/min_sample_date> "17/10/2007"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/43744> <http://datadock.io/digidatajen/temp/id/definition/min_sample_date> "11/03/2008"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/80998> <http://datadock.io/digidatajen/temp/id/definition/ngr_10_fig> "TM2836585735"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/85975> <http://datadock.io/digidatajen/temp/id/definition/min_sample_date> "11/03/2008"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
+﻿

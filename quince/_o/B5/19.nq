@@ -1,2 +1,1 @@
 ﻿<http://datadock.io/digidatajen/temp/id/definition/width> <http://www.w3.org/2000/01/rdf-schema#label> "WIDTH"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/definitions>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/154620> <http://datadock.io/digidatajen/temp/id/definition/easting> "28959"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.

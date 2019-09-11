@@ -1,8 +1,1 @@
-﻿<http://datadock.io/digidatajen/temp/id/resource/site_id/137> <http://datadock.io/digidatajen/temp/id/definition/alkalinity> "131.0"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/154239> <http://datadock.io/digidatajen/temp/id/definition/alkalinity> "131.0"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/163460> <http://datadock.io/digidatajen/temp/id/definition/alkalinity> "131.0"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/168363> <http://datadock.io/digidatajen/temp/id/definition/ngr_10_fig> "SJ7075698723"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/1851> <http://datadock.io/digidatajen/temp/id/definition/alkalinity> "131.0"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/2> <http://datadock.io/digidatajen/temp/id/definition/full_northing> "420100"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/36020> <http://datadock.io/digidatajen/temp/id/definition/easting> "68140"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/36147> <http://datadock.io/digidatajen/temp/id/definition/alkalinity> "131.0"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
+﻿

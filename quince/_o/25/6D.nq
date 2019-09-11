@@ -1,7 +1,1 @@
-﻿<http://datadock.io/digidatajen/temp/id/resource/site_id/163159> <http://datadock.io/digidatajen/temp/id/definition/alkalinity> "32.8"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/34380> <http://datadock.io/digidatajen/temp/id/definition/northing> "52820"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/64166> <http://datadock.io/digidatajen/temp/id/definition/alkalinity> "32.8"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/67980> <http://datadock.io/digidatajen/temp/id/definition/alkalinity> "32.8"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/8743> <http://datadock.io/digidatajen/temp/id/definition/alkalinity> "32.8"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/8743> <http://datadock.io/digidatajen/temp/id/definition/northing> "52820"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/9349> <http://datadock.io/digidatajen/temp/id/definition/alkalinity> "32.8"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
+﻿

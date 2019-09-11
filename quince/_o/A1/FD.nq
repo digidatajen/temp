@@ -1,8 +1,1 @@
-﻿<http://datadock.io/digidatajen/temp/id/resource/site_id/154233> <http://datadock.io/digidatajen/temp/id/definition/catchment> "COLE"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/35118> <http://datadock.io/digidatajen/temp/id/definition/catchment> "COLE"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/35258> <http://datadock.io/digidatajen/temp/id/definition/catchment> "COLE"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/36210> <http://datadock.io/digidatajen/temp/id/definition/catchment> "COLE"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/36210> <http://datadock.io/digidatajen/temp/id/definition/water_body> "COLE"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/36214> <http://datadock.io/digidatajen/temp/id/definition/catchment> "COLE"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/36214> <http://datadock.io/digidatajen/temp/id/definition/water_body> "COLE"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/52782> <http://datadock.io/digidatajen/temp/id/definition/water_body> "COLE"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
+﻿

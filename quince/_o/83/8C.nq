@@ -1,4 +1,1 @@
-﻿<http://datadock.io/digidatajen/temp/id/resource/site_id/152689> <http://datadock.io/digidatajen/temp/id/definition/max_sample_date> "24/06/2011"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/152690> <http://datadock.io/digidatajen/temp/id/definition/max_sample_date> "24/06/2011"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/9345> <http://datadock.io/digidatajen/temp/id/definition/wfd_waterbody_id> "GB108045008860"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/98261> <http://datadock.io/digidatajen/temp/id/definition/wfd_waterbody_id> "GB108045008860"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
+﻿

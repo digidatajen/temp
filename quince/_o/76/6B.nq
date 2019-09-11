@@ -1,2 +1,1 @@
 ﻿<http://datadock.io/digidatajen/temp/id/resource/analysis_id/609582> <http://datadock.io/digidatajen/temp/id/definition/units_found_or_sequence_reads> "61"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataTaxa>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/61> <http://datadock.io/digidatajen/temp/id/definition/site_id> "61"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.

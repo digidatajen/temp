@@ -1,2 +1,1 @@
-﻿<http://datadock.io/digidatajen/temp/id/resource/site_id/43000> <http://datadock.io/digidatajen/temp/id/definition/min_sample_date> "23/04/2004"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/43798> <http://datadock.io/digidatajen/temp/id/definition/count_of_samples> "70"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataSite>.
+﻿
