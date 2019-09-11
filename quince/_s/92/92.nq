@@ -1,6 +1,1 @@
-﻿<http://datadock.io/digidatajen/temp/id/resource/analysis_id/366794> <http://datadock.io/digidatajen/temp/id/definition/agency_area> "ANGLIAN - CENTRAL"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataTaxa>.
-<http://datadock.io/digidatajen/temp/id/resource/analysis_id/366794> <http://datadock.io/digidatajen/temp/id/definition/analysis_id> "366794"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataTaxa>.
-<http://datadock.io/digidatajen/temp/id/resource/analysis_id/366794> <http://datadock.io/digidatajen/temp/id/definition/percentage_cover_band> "1"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataTaxa>.
-<http://datadock.io/digidatajen/temp/id/resource/analysis_id/366794> <http://datadock.io/digidatajen/temp/id/definition/percentage_cover_band> "3"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataTaxa>.
-<http://datadock.io/digidatajen/temp/id/resource/analysis_id/366794> <http://datadock.io/digidatajen/temp/id/definition/taxon_list_item_key> "NBNSYS0100043042"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataTaxa>.
-<http://datadock.io/digidatajen/temp/id/resource/analysis_id/366794> <http://datadock.io/digidatajen/temp/id/definition/taxon_list_item_key> "NBNSYS0100046374"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataTaxa>.
+﻿
