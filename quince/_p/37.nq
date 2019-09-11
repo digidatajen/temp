@@ -3,6 +3,5 @@
 <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataMetrics> <http://rdfs.org/ns/void#triples> "21308"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataMetrics/metadata>.
 <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite> <http://rdfs.org/ns/void#triples> "599047"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite/metadata>.
 <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataTaxa> <http://rdfs.org/ns/void#triples> "741"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataTaxa/metadata>.
-<http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataMetrics> <http://rdfs.org/ns/void#triples> "278559"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataMetrics/metadata>.
 <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataSite> <http://rdfs.org/ns/void#triples> "132413"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataSite/metadata>.
 <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataTaxa> <http://rdfs.org/ns/void#triples> "751"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataTaxa/metadata>.

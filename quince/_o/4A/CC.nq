@@ -1,4 +1,3 @@
 ﻿<http://datadock.io/digidatajen/temp/id/definition/total_tdi4_cells> <http://www.w3.org/2000/01/rdf-schema#label> "TOTAL_TDI4_CELLS"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/definitions>.
-<http://datadock.io/digidatajen/temp/id/resource/sample_id/627630> <http://datadock.io/digidatajen/temp/id/definition/site_id> "156732"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataMetrics>.
 <http://datadock.io/digidatajen/temp/id/resource/site_id/156732> <http://datadock.io/digidatajen/temp/id/definition/site_id> "156732"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataSite>.
 <http://datadock.io/digidatajen/temp/id/resource/site_id/33378> <http://datadock.io/digidatajen/temp/id/definition/dist_from_source> "26.080"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.

@@ -1,3 +1,1 @@
 ﻿<http://datadock.io/digidatajen/temp/id/resource/analysis_id/119280> <http://datadock.io/digidatajen/temp/id/definition/taxon_list_item_key> "NBNSYS0100051153"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataTaxa>.
-<http://datadock.io/digidatajen/temp/id/resource/sample_id/372774> <http://datadock.io/digidatajen/temp/id/definition/analysis_id> "366557"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataMetrics>.
-<http://datadock.io/digidatajen/temp/id/resource/sample_id/628758> <http://datadock.io/digidatajen/temp/id/definition/analysis_id> "618048"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataMetrics>.

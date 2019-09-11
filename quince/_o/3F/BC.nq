@@ -1,3 +1,2 @@
 ﻿<http://datadock.io/digidatajen/temp/id/definition/discharge> <http://www.w3.org/2000/01/rdf-schema#label> "DISCHARGE"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/definitions>.
-<http://datadock.io/digidatajen/temp/id/resource/sample_id/373012> <http://datadock.io/digidatajen/temp/id/definition/sample_id> "373012"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataMetrics>.
 <http://datadock.io/digidatajen/temp/id/resource/site_id/56105> <http://datadock.io/digidatajen/temp/id/definition/dist_from_source> "218.000"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.

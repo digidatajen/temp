@@ -1,2 +1,1 @@
 ﻿<http://datadock.io/digidatajen/temp/id/dataset/invOpenDataTaxa> <http://rdfs.org/ns/void#dataDump> <https://github.com/digidatajen/temp/releases/download/invOpenDataTaxa_20190909_152516/invOpenDataTaxa_20190909_152516.nt.gz> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataTaxa/metadata>.
-<http://datadock.io/digidatajen/temp/id/resource/sample_id/612269> <http://datadock.io/digidatajen/temp/id/definition/sample_id> "612269"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataMetrics>.
