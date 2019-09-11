@@ -1,3 +1,1 @@
 ﻿<http://datadock.io/digidatajen/temp/id/resource/sample_id/597974> <http://datadock.io/digidatajen/temp/id/definition/sample_id> "597974"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataMetrics>.
-<http://datadock.io/digidatajen/temp/id/resource/sample_id/605500> <http://datadock.io/digidatajen/temp/id/definition/analysis_id> "597974"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataMetrics>.
-<http://datadock.io/digidatajen/temp/id/resource/sample_id/700649> <http://datadock.io/digidatajen/temp/id/definition/analysis_id> "691277"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataMetrics>.

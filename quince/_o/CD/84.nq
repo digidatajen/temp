@@ -1,3 +1,2 @@
 ﻿<http://datadock.io/digidatajen/temp/id/resource/sample_id/543073> <http://datadock.io/digidatajen/temp/id/definition/sample_id> "543073"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataMetrics>.
-<http://datadock.io/digidatajen/temp/id/resource/sample_id/745651> <http://datadock.io/digidatajen/temp/id/definition/total_tdi5_ngs_sequence_reads> "25807"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataMetrics>.
 <http://datadock.io/digidatajen/temp/id/resource/site_id/155372> <http://datadock.io/digidatajen/temp/id/definition/easting> "46537"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.

@@ -1,2 +1,1 @@
-﻿<http://datadock.io/digidatajen/temp/id/resource/sample_id/717483> <http://datadock.io/digidatajen/temp/id/definition/analysis_id> "709427"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataMetrics>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/8753> <http://datadock.io/digidatajen/temp/id/definition/depth> "28.84"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
+﻿<http://datadock.io/digidatajen/temp/id/resource/site_id/8753> <http://datadock.io/digidatajen/temp/id/definition/depth> "28.84"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.

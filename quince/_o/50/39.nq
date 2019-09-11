@@ -1,4 +1,2 @@
 ﻿<http://datadock.io/digidatajen/temp/id/definition/whpt_total> <http://www.w3.org/2000/01/rdf-schema#label> "WHPT_TOTAL"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/temp/definitions>.
-<http://datadock.io/digidatajen/temp/id/resource/sample_id/645563> <http://datadock.io/digidatajen/temp/id/definition/sample_id> "645563"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataMetrics>.
-<http://datadock.io/digidatajen/temp/id/resource/sample_id/704497> <http://datadock.io/digidatajen/temp/id/definition/analysis_id> "698250"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/diatOpenDataMetrics>.
 <http://datadock.io/digidatajen/temp/id/resource/site_id/142015> <http://datadock.io/digidatajen/temp/id/definition/full_easting> "548160"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataSite>.
