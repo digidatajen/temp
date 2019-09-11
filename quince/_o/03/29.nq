@@ -1,2 +1,1 @@
-﻿<http://datadock.io/digidatajen/temp/id/resource/sample_id/330444> <http://datadock.io/digidatajen/temp/id/definition/sample_id> "330444"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/invOpenDataMetrics>.
-<http://datadock.io/digidatajen/temp/id/resource/site_id/160815> <http://datadock.io/digidatajen/temp/id/definition/northing> "68505"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataSite>.
+﻿<http://datadock.io/digidatajen/temp/id/resource/site_id/160815> <http://datadock.io/digidatajen/temp/id/definition/northing> "68505"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/temp/id/dataset/macpOpenDataSite>.
